@@ -1,0 +1,15 @@
+C:\WORK\2021SEMESTER2\C# Practice\C# Mark Price Textbook\Chapter9\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.exe
+C:\WORK\2021SEMESTER2\C# Practice\C# Mark Price Textbook\Chapter9\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.deps.json
+C:\WORK\2021SEMESTER2\C# Practice\C# Mark Price Textbook\Chapter9\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.runtimeconfig.json
+C:\WORK\2021SEMESTER2\C# Practice\C# Mark Price Textbook\Chapter9\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.dll
+C:\WORK\2021SEMESTER2\C# Practice\C# Mark Price Textbook\Chapter9\WorkingWithSerialization\bin\Debug\net6.0\ref\WorkingWithSerialization.dll
+C:\WORK\2021SEMESTER2\C# Practice\C# Mark Price Textbook\Chapter9\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.pdb
+C:\WORK\2021SEMESTER2\C# Practice\C# Mark Price Textbook\Chapter9\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.csproj.AssemblyReference.cache
+C:\WORK\2021SEMESTER2\C# Practice\C# Mark Price Textbook\Chapter9\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\2021SEMESTER2\C# Practice\C# Mark Price Textbook\Chapter9\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.AssemblyInfoInputs.cache
+C:\WORK\2021SEMESTER2\C# Practice\C# Mark Price Textbook\Chapter9\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.AssemblyInfo.cs
+C:\WORK\2021SEMESTER2\C# Practice\C# Mark Price Textbook\Chapter9\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.csproj.CoreCompileInputs.cache
+C:\WORK\2021SEMESTER2\C# Practice\C# Mark Price Textbook\Chapter9\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.dll
+C:\WORK\2021SEMESTER2\C# Practice\C# Mark Price Textbook\Chapter9\WorkingWithSerialization\obj\Debug\net6.0\ref\WorkingWithSerialization.dll
+C:\WORK\2021SEMESTER2\C# Practice\C# Mark Price Textbook\Chapter9\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.pdb
+C:\WORK\2021SEMESTER2\C# Practice\C# Mark Price Textbook\Chapter9\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.genruntimeconfig.cache
